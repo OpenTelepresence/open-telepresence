@@ -7,3 +7,4 @@ Open Telepersence is a project that aims to create an open source multiplatform 
 * Video backend to process/route video and metadata between the different clients participating in the immersive experience
 
 For better integration and interoperability seek, all the communication protocols, video coding formats and hardware used to create such an experience should be as open as possible. Using low-cost setup (the needed hardware) is preferable whenever possible so more audience can make use of the technology.
+
